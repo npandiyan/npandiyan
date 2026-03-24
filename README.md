@@ -11,7 +11,7 @@
   across shipping, healthcare, fintech, publishing, and enterprise domains.
 </p>
 
-<p align="center"><i>I combine deep expertise in machine learning and agentic AI systems with strong backend and cloud engineering skills — and I keep building apps, from idea to production, driven by curiosity and passion.</i></p>
+<p align="center"><i>I combine deep expertise in machine learning and agentic AI systems with strong backend and cloud engineering skills, and I keep building apps, from idea to production, driven by curiosity and passion.</i></p>
 
 ---
 
@@ -19,10 +19,10 @@
 
 | | Area | Details |
 |---|---|---|
-| 🤖 | **Agentic AI Systems** | LLM-powered pipelines that automate complex workflows — replacing hours of manual work with minutes of AI-driven execution |
+| 🤖 | **Agentic AI Systems** | LLM-powered pipelines that automate complex workflows, replacing hours of manual work with minutes of AI-driven execution |
 | ☁️ | **Serverless Architectures** | Event-driven cloud pipelines that scale automatically, process thousands of jobs, and cost 60% less than traditional compute |
-| 📊 | **Production ML Platforms** | Predictive models that drive real business decisions — optimizing contact strategies, scoring risk, and improving operational efficiency at scale |
-| 🛠️ | **Full-Stack Applications** | Complete products from database to mobile app — APIs, dashboards, real-time chat, and cloud deployment, built and shipped solo |
+| 📊 | **Production ML Platforms** | Predictive models that drive real business decisions, optimizing contact strategies, scoring risk, and improving efficiency at scale |
+| 🛠️ | **Full-Stack Applications** | Complete products from database to mobile app. APIs, dashboards, real-time chat, and cloud deployment, built and shipped solo |
 
 ---
 
@@ -33,14 +33,14 @@
 | **Document Review Automation** | AWS Lambda pipeline with computer vision + LangGraph agents for automated HTML updates | `70% of edits automated in 8 min` |
 | **Newsletter Curation Platform** | LangGraph-orchestrated pipeline with multi-provider LLM support for research analysts | `Replaced 6 hrs/day of manual work` |
 | **Codebase Intelligence** | AI agent platform analyzing repos for insights & vulnerabilities | `Evolving toward agentic dev workflows` |
-| **B2B MSME Platform** | Full-stack app with RAG agent, React Native, automated KB pipeline — deployed solo on AWS | `Designed, built & deployed E2E` |
+| **B2B MSME Platform** | Full-stack app with RAG agent, React Native, automated KB pipeline, deployed solo on AWS | `Designed, built & deployed E2E` |
 | **Predictive Analytics ML** | Multi-model platform on Databricks for financial recovery optimization | `+28% efficiency, 800K+ accounts` |
 
 ---
 
 ### ⚡ How I Work
 
-I'm a heavy **Claude Code** user — it's my daily driver for everything from architecture brainstorming to shipping production code. Parallel subagents, MCP integration, test-driven development, systematic debugging — AI-native workflows that let me build faster, iterate quicker, and ship with confidence. It's genuinely changed how I approach engineering.
+I'm a heavy **Claude Code** user. It's my daily driver for everything from architecture brainstorming to shipping production code. Parallel subagents, MCP integration, test-driven development, systematic debugging. AI-native workflows that let me build faster, iterate quicker, and ship with confidence. It's genuinely changed how I approach engineering.
 
 ---
 
@@ -78,7 +78,7 @@ I'm a heavy **Claude Code** user — it's my daily driver for everything from ar
 
 ### 🎮 When I'm Not Coding
 
-Most of my time is spent at my workstation — either building something, breaking something, or watching someone else explain why their thing broke (podcasts). When I do step away, it's for football, badminton, or the gym. And when I don't step away, it's Dota 2, Counter-Strike, or flying planes on my home flight simulator (self-learning aviation — because why not).
+Most of my time is spent at my workstation, either building something, breaking something, or watching someone else explain why their thing broke (podcasts). When I do step away, it's for football, badminton, or the gym. And when I don't step away, it's Dota 2, Counter-Strike, or flying planes on my home flight simulator (self-learning aviation, because why not).
 
 I have a personal goal of building **6 solutions that automate or meaningfully improve someone's life**. Currently 1 down, 5 to go. 🚀
 
