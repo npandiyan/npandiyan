@@ -17,11 +17,11 @@ I combine deep expertise in machine learning and agentic AI systems with strong 
 
 | Project | What It Does | Impact |
 |---------|-------------|--------|
-| **SmartHTML** | AWS Lambda pipeline automating document review with computer vision + LangGraph agents | 70% of edits automated in 8 min |
-| **NewsAI** | LangGraph-orchestrated newsletter curation with multi-provider LLM support | Replaced 6 hrs/day of analyst work |
-| **AutoDoc AI** | Codebase intelligence platform analyzing repos for insights & vulnerabilities | Evolving toward agentic dev workflows |
-| **Bharat2Business** | Full-stack B2B platform with RAG agent, React Native app, AWS deployment | Designed, built & deployed solo |
-| **CollectorAssist** | Multi-model ML platform on Databricks for debt collection optimization | +28% efficiency across 800K+ accounts |
+| Document Review Automation | AWS Lambda pipeline with computer vision + LangGraph agents for automated HTML updates | 70% of edits automated in 8 min |
+| Newsletter Curation Platform | LangGraph-orchestrated pipeline with multi-provider LLM support for research analysts | Replaced 6 hrs/day of manual work |
+| Codebase Intelligence | AI agent platform analyzing repos for insights & vulnerabilities | Evolving toward agentic dev workflows |
+| B2B MSME Platform | Full-stack app with RAG agent, React Native, automated KB pipeline — deployed solo on AWS | Designed, built & deployed end-to-end |
+| Predictive Analytics ML | Multi-model platform on Databricks for financial recovery optimization | +28% efficiency across 800K+ accounts |
 
 ### Tech I Work With
 
