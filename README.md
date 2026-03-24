@@ -19,10 +19,10 @@
 
 | | Area | Details |
 |---|---|---|
-| 🤖 | **Agentic AI Systems** | LangGraph-orchestrated pipelines, multi-agent workflows, RAG systems |
-| ☁️ | **Serverless Architectures** | AWS Lambda pipelines, SQS orchestration, SAM/CloudFormation IaC |
-| 📊 | **Production ML Platforms** | XGBoost/CatBoost on Databricks, model calibration, automated scoring |
-| 🛠️ | **Full-Stack Applications** | FastAPI backends, React/React Native frontends, PostgreSQL, Neo4j |
+| 🤖 | **Agentic AI Systems** | LLM-powered pipelines that automate complex workflows — replacing hours of manual work with minutes of AI-driven execution |
+| ☁️ | **Serverless Architectures** | Event-driven cloud pipelines that scale automatically, process thousands of jobs, and cost 60% less than traditional compute |
+| 📊 | **Production ML Platforms** | Predictive models that drive real business decisions — optimizing contact strategies, scoring risk, and improving operational efficiency at scale |
+| 🛠️ | **Full-Stack Applications** | Complete products from database to mobile app — APIs, dashboards, real-time chat, and cloud deployment, built and shipped solo |
 
 ---
 
@@ -35,6 +35,12 @@
 | **Codebase Intelligence** | AI agent platform analyzing repos for insights & vulnerabilities | `Evolving toward agentic dev workflows` |
 | **B2B MSME Platform** | Full-stack app with RAG agent, React Native, automated KB pipeline — deployed solo on AWS | `Designed, built & deployed E2E` |
 | **Predictive Analytics ML** | Multi-model platform on Databricks for financial recovery optimization | `+28% efficiency, 800K+ accounts` |
+
+---
+
+### ⚡ How I Work
+
+I'm a heavy **Claude Code** user — it's my daily driver for everything from architecture brainstorming to shipping production code. Parallel subagents, MCP integration, test-driven development, systematic debugging — AI-native workflows that let me build faster, iterate quicker, and ship with confidence. It's genuinely changed how I approach engineering.
 
 ---
 
@@ -67,6 +73,14 @@
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks">
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow">
 </p>
+
+---
+
+### 🎮 When I'm Not Coding
+
+Most of my time is spent at my workstation — either building something, breaking something, or watching someone else explain why their thing broke (podcasts). When I do step away, it's for football, badminton, or the gym. And when I don't step away, it's Dota 2, Counter-Strike, or flying planes on my home flight simulator (self-learning aviation — because why not).
+
+I have a personal goal of building **6 solutions that automate or meaningfully improve someone's life**. Currently 1 down, 5 to go. 🚀
 
 ---
 
